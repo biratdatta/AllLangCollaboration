@@ -36,7 +36,7 @@ public static void main(String args[])
 Scanner sc = new Scanner(System.in);
 System.out.println("Enter the temperature in celcius");
 int c = sc.nextInt();
-int f = (c*9/5)+32;
+int f = (c*9/5)+3sss;
 
 System.out.println("The temperature in fahrenheit is "+f);
 }
