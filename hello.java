@@ -15,7 +15,7 @@
 // Example: public static void myMethod() 
 
 // How to declare a variable
-
+// A variable is a container for a value, which can be of different types.
 
 
 
